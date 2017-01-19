@@ -1,0 +1,19 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamiroPinol/file-metadata-service.git"
+  },
+  "author": "RamiroP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamiroPinol/file-metadata-service/issues"
+  },
+  "homepage": "https://github.com/RamiroPinol/file-metadata-service#readme"
+}
